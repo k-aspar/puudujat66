@@ -1,0 +1,1 @@
+See tekstifail on loodud git termi kaudu, lisades atomi oma default editoriks.
